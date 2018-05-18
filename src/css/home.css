@@ -1,0 +1,23 @@
+
+.user_info, .news_board {
+    padding: 0px 10px;
+}
+
+.user_info h3, p{
+    text-align: center;
+}
+
+.avatar{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.file_icon{
+    display: none !important;
+}
+
+.news_list_element {
+    margin-top: 20px;
+}

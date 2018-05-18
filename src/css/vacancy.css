@@ -1,0 +1,17 @@
+.vacancy_img {
+    width: 90%;
+    margin: auto;
+    display: block;
+    margin-top: 20px;
+}
+
+.list_element {
+    margin-bottom: 20px;
+}
+
+.contact_img{
+    max-height: 180px;
+    margin: auto;
+    display: block;
+    padding: 5%;
+}

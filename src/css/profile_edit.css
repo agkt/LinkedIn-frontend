@@ -1,0 +1,146 @@
+.profile .clearfix {
+    margin-bottom: 20px;
+}
+
+.profile a {
+    font-size: 14px;
+}
+.profile button {
+    margin-right: 25px;
+}
+.profile h5 {
+    margin-bottom: 0;
+    margin-top: 20px;
+    background: #f2f8ff;
+    height: 30px;
+    line-height: 30px;
+    padding-left: 7px;
+    color: rgba(0, 0, 0, 0.75);
+}
+
+.profile a:hover {
+    text-decoration: none;
+}
+
+.profile form {
+    margin: 0 auto;
+    max-width: 700px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.profile label {
+    float: left;
+    font-family: Roboto-Bold, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: rgba(0, 0, 0, 0.54);
+    margin-right: 80px;
+    margin-top: 15px;
+}
+
+.profile_about textarea {
+    width: 669px;
+    margin-top: 15px;
+    margin-bottom: 40px
+}
+
+.profile_expereince input, .language input, .language_level input,
+.education_fromDate input, .education_toDate input, .profile_skills input,
+.profile_courses input, .profile_patents input {
+    width: 320px;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+
+.profile_skills input, .profile_courses input, .profile_patents input {
+    margin-top: 15px;
+    width: 205px;
+}
+
+.profile_education input, .profile_expereince input, .education_fromDate input,
+.education_toDate input, .profile_certificate input, .certificate_fromDate input, .certificate_toDate input,
+.profile_publications input, .education_description input, .education_date input {
+    width: 210px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+
+.profile select {
+    float: right;
+    height: 50px;
+    margin-bottom: 20px;
+}
+
+.photo_block {
+    width: 350px;
+    margin: 0 auto;
+}
+
+.photo_block input {
+    margin-bottom: 15px;
+}
+
+.profile .add_photo {
+    opacity: 0;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    cursor: pointer;
+}
+
+.profile .user_photo {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    margin-left: 80px;
+    margin-bottom: 15px;
+    float: left;
+    border: dashed 1px rgba(0, 0, 0, 0.1);
+}
+
+.form-buttons {
+    float: right;
+    margin-right: 95px;
+    margin-bottom: 100px;
+}
+
+.form-buttons button:first-child {
+    margin-right: 20px;
+}
+
+#photo-label {
+    line-height: 118px;
+}
+
+#name, #surname {
+    width: 165px;
+    float: left;
+    margin-right: 20px;
+}
+
+#surname {
+    margin-right: 0;
+}
+
+#name-label {
+    line-height: 50px;
+}
+
+#surname input {
+    width: 180px;
+    float: left;
+}
